@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyCustomView">
+        <attr name="custom_view_bg_color" format="color"></attr>
+        <attr name="custom_view_title_color" format="color"></attr>
+        <attr name="custom_view_title_size" format="dimension"></attr>
+        <attr name="custom_view_text" format="string"></attr>
+        <attr name="custom_view_icon_src" format="reference"></attr>
+
+    </declare-styleable>
+</resources>
